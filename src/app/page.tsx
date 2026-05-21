@@ -54,7 +54,7 @@ export default function LandingPage() {
           handle: "@tphclient",
           testimonial: "Excellent service and professional execution.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-0e2abrl6.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-0e2abrl6.png?_wi=1",
           imageAlt: "User provided image",
         },
         {
@@ -62,7 +62,7 @@ export default function LandingPage() {
           handle: "@corporatepartner",
           testimonial: "The best in electrical engineering maintenance.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-beq7s0pz.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-beq7s0pz.png?_wi=1",
           imageAlt: "User provided image",
         },
         {
@@ -70,7 +70,7 @@ export default function LandingPage() {
           handle: "@industrialclient",
           testimonial: "Fast response times and high reliability.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/electrician-connecting-wires-work-inside-panel-engineer-with-tool_169016-68074.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/electrician-connecting-wires-work-inside-panel-engineer-with-tool_169016-68074.jpg?_wi=1",
           imageAlt: "User provided image",
         },
         {
@@ -78,7 +78,7 @@ export default function LandingPage() {
           handle: "@facilitymanager",
           testimonial: "Expertise and dedication to safety are unmatched.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/software-developer-walking-through-server-room-rows-lined-with-storage-infrastructure-rigs-it-worker_482257-132487.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/software-developer-walking-through-server-room-rows-lined-with-storage-infrastructure-rigs-it-worker_482257-132487.jpg?_wi=1",
           imageAlt: "User provided image",
         },
         {
@@ -86,11 +86,11 @@ export default function LandingPage() {
           handle: "@siteowner",
           testimonial: "Top-tier electrical and security solutions.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-rendering-gas-cylinder_23-2149290461.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/3d-rendering-gas-cylinder_23-2149290461.jpg?_wi=1",
           imageAlt: "User provided image",
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-0e2abrl6.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-0e2abrl6.png?_wi=2"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/smiley-woman-office-holding-tablet_23-2148356266.jpg",
@@ -137,7 +137,7 @@ export default function LandingPage() {
           description: "Teamwork and communication are at the forefront.",
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-beq7s0pz.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-beq7s0pz.png?_wi=2"
       mediaAnimation="blur-reveal"
     />
   </div>
@@ -152,17 +152,17 @@ export default function LandingPage() {
         {
           title: "Electrical Installations",
           description: "Expert installations for high-voltage and low-voltage systems.",
-          imageSrc: "http://img.b2bpic.net/free-photo/electrician-connecting-wires-work-inside-panel-engineer-with-tool_169016-68074.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/electrician-connecting-wires-work-inside-panel-engineer-with-tool_169016-68074.jpg?_wi=2",
         },
         {
           title: "Security Systems",
           description: "CCTV, Access Control, and comprehensive alarm systems.",
-          imageSrc: "http://img.b2bpic.net/free-photo/software-developer-walking-through-server-room-rows-lined-with-storage-infrastructure-rigs-it-worker_482257-132487.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/software-developer-walking-through-server-room-rows-lined-with-storage-infrastructure-rigs-it-worker_482257-132487.jpg?_wi=2",
         },
         {
           title: "Fire Training",
           description: "Professional fire suppression training and maintenance services.",
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-rendering-gas-cylinder_23-2149290461.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/3d-rendering-gas-cylinder_23-2149290461.jpg?_wi=2",
         },
       ]}
       title="Our Specialized Services"
@@ -183,7 +183,7 @@ export default function LandingPage() {
           quote: "Top quality electrical work.",
           tag: "Expert",
           avatarSrc: "http://img.b2bpic.net/free-photo/close-up-successful-entrepreneur_1098-3855.jpg",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-0e2abrl6.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-0e2abrl6.png?_wi=3",
           imageAlt: "corporate business professional portrait",
         },
         {
@@ -194,7 +194,7 @@ export default function LandingPage() {
           quote: "Very reliable and efficient.",
           tag: "Trusted",
           avatarSrc: "http://img.b2bpic.net/free-photo/confident-asian-leader-his-team-specialists_1262-4868.jpg",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-beq7s0pz.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-beq7s0pz.png?_wi=3",
           imageAlt: "corporate business professional portrait",
         },
         {
@@ -205,7 +205,7 @@ export default function LandingPage() {
           quote: "They stand out from the rest.",
           tag: "Leader",
           avatarSrc: "http://img.b2bpic.net/free-photo/low-angle-businessmen-making-agreement_23-2148269333.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/electrician-connecting-wires-work-inside-panel-engineer-with-tool_169016-68074.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/electrician-connecting-wires-work-inside-panel-engineer-with-tool_169016-68074.jpg?_wi=3",
           imageAlt: "corporate business professional portrait",
         },
         {
@@ -216,7 +216,7 @@ export default function LandingPage() {
           quote: "Excellent security integration.",
           tag: "Pro",
           avatarSrc: "http://img.b2bpic.net/free-photo/man-with-arms-crossed-working-warehouse_23-2148923083.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/software-developer-walking-through-server-room-rows-lined-with-storage-infrastructure-rigs-it-worker_482257-132487.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/software-developer-walking-through-server-room-rows-lined-with-storage-infrastructure-rigs-it-worker_482257-132487.jpg?_wi=3",
           imageAlt: "corporate business professional portrait",
         },
         {
@@ -227,7 +227,7 @@ export default function LandingPage() {
           quote: "Great communication throughout.",
           tag: "Partner",
           avatarSrc: "http://img.b2bpic.net/free-photo/solar-panels-industry-technician-high-tech-factory-inspection-quality-control-production_482257-132256.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-rendering-gas-cylinder_23-2149290461.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/3d-rendering-gas-cylinder_23-2149290461.jpg?_wi=3",
           imageAlt: "corporate business professional portrait",
         },
       ]}
