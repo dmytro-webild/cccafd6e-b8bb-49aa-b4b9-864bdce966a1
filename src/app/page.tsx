@@ -44,13 +44,13 @@ export default function LandingPage() {
             title="Electric solutions that spark results."
             description="Throttle Power Holdings is committed to providing top-notch electrical and security solutions. We deliver the highest quality, simplest and most efficient electrical and security solutions to industrial and commercial businesses."
             testimonials={[
-              { name: "John M.", handle: "@tphclient", testimonial: "Excellent service and professional execution.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-0e2abrl6.png", imageAlt: "User provided image" },
-              { name: "Sarah L.", handle: "@corporatepartner", testimonial: "The best in electrical engineering maintenance.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-beq7s0pz.png", imageAlt: "User provided image" },
-              { name: "David K.", handle: "@industrialclient", testimonial: "Fast response times and high reliability.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/electrician-connecting-wires-work-inside-panel-engineer-with-tool_169016-68074.jpg", imageAlt: "User provided image" },
-              { name: "Elena P.", handle: "@facilitymanager", testimonial: "Expertise and dedication to safety are unmatched.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/software-developer-walking-through-server-room-rows-lined-with-storage-infrastructure-rigs-it-worker_482257-132487.jpg", imageAlt: "User provided image" },
-              { name: "Robert B.", handle: "@siteowner", testimonial: "Top-tier electrical and security solutions.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/3d-rendering-gas-cylinder_23-2149290461.jpg", imageAlt: "User provided image" }
+              { name: "John M.", handle: "@tphclient", testimonial: "Excellent service and professional execution.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-0e2abrl6.png?_wi=1", imageAlt: "User provided image" },
+              { name: "Sarah L.", handle: "@corporatepartner", testimonial: "The best in electrical engineering maintenance.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-beq7s0pz.png?_wi=1", imageAlt: "User provided image" },
+              { name: "David K.", handle: "@industrialclient", testimonial: "Fast response times and high reliability.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/electrician-connecting-wires-work-inside-panel-engineer-with-tool_169016-68074.jpg?_wi=1", imageAlt: "User provided image" },
+              { name: "Elena P.", handle: "@facilitymanager", testimonial: "Expertise and dedication to safety are unmatched.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/software-developer-walking-through-server-room-rows-lined-with-storage-infrastructure-rigs-it-worker_482257-132487.jpg?_wi=1", imageAlt: "User provided image" },
+              { name: "Robert B.", handle: "@siteowner", testimonial: "Top-tier electrical and security solutions.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/3d-rendering-gas-cylinder_23-2149290461.jpg?_wi=1", imageAlt: "User provided image" }
             ]}
-            imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-0e2abrl6.png"
+            imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-0e2abrl6.png?_wi=2"
             avatars={[
               { src: "http://img.b2bpic.net/free-photo/smiley-woman-office-holding-tablet_23-2148356266.jpg", alt: "Client profile 1" },
               { src: "http://img.b2bpic.net/free-photo/friendly-successful-business-woman-posing-with-arms-crossed_74855-2813.jpg", alt: "Client profile 2" },
@@ -73,7 +73,7 @@ export default function LandingPage() {
               { title: "Daring to Differentiate", description: "We are market leaders who make bold decisions." },
               { title: "Collaborative Teamwork", description: "Teamwork and communication are at the forefront." }
             ]}
-            imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-beq7s0pz.png"
+            imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-beq7s0pz.png?_wi=2"
             mediaAnimation="blur-reveal"
           />
         </div>
@@ -85,9 +85,9 @@ export default function LandingPage() {
             gridVariant="three-columns-all-equal-width"
             useInvertedBackground={false}
             features={[
-              { title: "Electrical Installations", description: "Expert installations for high-voltage and low-voltage systems.", imageSrc: "http://img.b2bpic.net/free-photo/electrician-connecting-wires-work-inside-panel-engineer-with-tool_169016-68074.jpg" },
-              { title: "Security Systems", description: "CCTV, Access Control, and comprehensive alarm systems.", imageSrc: "http://img.b2bpic.net/free-photo/software-developer-walking-through-server-room-rows-lined-with-storage-infrastructure-rigs-it-worker_482257-132487.jpg" },
-              { title: "Fire Training", description: "Professional fire suppression training and maintenance services.", imageSrc: "http://img.b2bpic.net/free-photo/3d-rendering-gas-cylinder_23-2149290461.jpg" }
+              { title: "Electrical Installations", description: "Expert installations for high-voltage and low-voltage systems.", imageSrc: "http://img.b2bpic.net/free-photo/electrician-connecting-wires-work-inside-panel-engineer-with-tool_169016-68074.jpg?_wi=2" },
+              { title: "Security Systems", description: "CCTV, Access Control, and comprehensive alarm systems.", imageSrc: "http://img.b2bpic.net/free-photo/software-developer-walking-through-server-room-rows-lined-with-storage-infrastructure-rigs-it-worker_482257-132487.jpg?_wi=2" },
+              { title: "Fire Training", description: "Professional fire suppression training and maintenance services.", imageSrc: "http://img.b2bpic.net/free-photo/3d-rendering-gas-cylinder_23-2149290461.jpg?_wi=2" }
             ]}
             title="Our Specialized Services"
             description="We provide a wide range of engineering and security services for industrial, residential, and commercial sites."
@@ -99,11 +99,11 @@ export default function LandingPage() {
             textboxLayout="default"
             useInvertedBackground={true}
             testimonials={[
-              { id: "1", name: "John M.", date: "Oct 2023", title: "Director", quote: "Top quality electrical work.", tag: "Expert", avatarSrc: "http://img.b2bpic.net/free-photo/close-up-successful-entrepreneur_1098-3855.jpg", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-0e2abrl6.png" },
-              { id: "2", name: "Sarah L.", date: "Nov 2023", title: "Manager", quote: "Very reliable and efficient.", tag: "Trusted", avatarSrc: "http://img.b2bpic.net/free-photo/confident-asian-leader-his-team-specialists_1262-4868.jpg", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-beq7s0pz.png" },
-              { id: "3", name: "David K.", date: "Dec 2023", title: "CEO", quote: "They stand out from the rest.", tag: "Leader", avatarSrc: "http://img.b2bpic.net/free-photo/low-angle-businessmen-making-agreement_23-2148269333.jpg", imageSrc: "http://img.b2bpic.net/free-photo/electrician-connecting-wires-work-inside-panel-engineer-with-tool_169016-68074.jpg" },
-              { id: "4", name: "Elena P.", date: "Jan 2024", title: "Admin", quote: "Excellent security integration.", tag: "Pro", avatarSrc: "http://img.b2bpic.net/free-photo/man-with-arms-crossed-working-warehouse_23-2148923083.jpg", imageSrc: "http://img.b2bpic.net/free-photo/software-developer-walking-through-server-room-rows-lined-with-storage-infrastructure-rigs-it-worker_482257-132487.jpg" },
-              { id: "5", name: "Robert B.", date: "Feb 2024", title: "Partner", quote: "Great communication throughout.", tag: "Partner", avatarSrc: "http://img.b2bpic.net/free-photo/solar-panels-industry-technician-high-tech-factory-inspection-quality-control-production_482257-132256.jpg", imageSrc: "http://img.b2bpic.net/free-photo/3d-rendering-gas-cylinder_23-2149290461.jpg" }
+              { id: "1", name: "John M.", date: "Oct 2023", title: "Director", quote: "Top quality electrical work.", tag: "Expert", avatarSrc: "http://img.b2bpic.net/free-photo/close-up-successful-entrepreneur_1098-3855.jpg", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-0e2abrl6.png?_wi=3" },
+              { id: "2", name: "Sarah L.", date: "Nov 2023", title: "Manager", quote: "Very reliable and efficient.", tag: "Trusted", avatarSrc: "http://img.b2bpic.net/free-photo/confident-asian-leader-his-team-specialists_1262-4868.jpg", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3GMKpMZfCTRoRLzz9j2hueGqE/uploaded-1779400125438-beq7s0pz.png?_wi=3" },
+              { id: "3", name: "David K.", date: "Dec 2023", title: "CEO", quote: "They stand out from the rest.", tag: "Leader", avatarSrc: "http://img.b2bpic.net/free-photo/low-angle-businessmen-making-agreement_23-2148269333.jpg", imageSrc: "http://img.b2bpic.net/free-photo/electrician-connecting-wires-work-inside-panel-engineer-with-tool_169016-68074.jpg?_wi=3" },
+              { id: "4", name: "Elena P.", date: "Jan 2024", title: "Admin", quote: "Excellent security integration.", tag: "Pro", avatarSrc: "http://img.b2bpic.net/free-photo/man-with-arms-crossed-working-warehouse_23-2148923083.jpg", imageSrc: "http://img.b2bpic.net/free-photo/software-developer-walking-through-server-room-rows-lined-with-storage-infrastructure-rigs-it-worker_482257-132487.jpg?_wi=3" },
+              { id: "5", name: "Robert B.", date: "Feb 2024", title: "Partner", quote: "Great communication throughout.", tag: "Partner", avatarSrc: "http://img.b2bpic.net/free-photo/solar-panels-industry-technician-high-tech-factory-inspection-quality-control-production_482257-132256.jpg", imageSrc: "http://img.b2bpic.net/free-photo/3d-rendering-gas-cylinder_23-2149290461.jpg?_wi=3" }
             ]}
             title="What Our Partners Say"
             description="Building lasting value through professional excellence and engineering success."
